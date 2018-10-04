@@ -13,3 +13,9 @@ if the application is not starting: stop and restart tomcat
   ===========================================
   
   If you are using eclipse STS you dont need to do all these!
+  
+  
+  
+  ========================================================================
+  git remote add origin [Remote-git-url]
+  git remote -v
